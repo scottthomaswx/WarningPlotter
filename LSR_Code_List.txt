@@ -1,0 +1,76 @@
+E - Flood
+
+T - Tornado
+
+M - Marine TSTM Wind
+
+R - Rain/Heavy Rain
+
+O - Non Tstm Wind Damage
+
+N- Non Tstm Wind Gust
+
+D - TSTM Wind Damage
+
+G - TSTM Wind Gust
+
+H - Hail
+
+F - Flash Flood
+
+C - Funnel Cloud
+
+v - Coastal Flood
+
+P - Rip Current
+
+L - Lightning
+
+x - Debris Flow
+
+S - Snow/Heavy Snow
+
+J - Dense Fog
+
+P - High Surf
+
+V - Avalanche
+
+U/8 - Wildfire
+
+5- Freezing Rain/Ice Storm
+
+Z -  Blizzard
+
+6 - Cold/Wind Chill/Freeze/Extreme Cold
+
+B - Downburst
+
+2 - Dust Storm
+
+I - Excessive Heat
+
+7 - Extr Wind Chill
+
+A - High SUST Winds
+
+4 - High ASTR Tides
+
+0 - Hurricane
+
+u - Lakeshore Flood
+
+8 - Sieche
+
+P - High Surf
+
+1 - Storm Surge
+
+Q - Tropical Storm
+
+W-Waterspout/ Water Spout
+
+G - TSTM Wind
+
+s - Sleet/Heavy Sleet
+
