@@ -68,7 +68,7 @@ P - High Surf
 
 Q - Tropical Storm
 
-W-Waterspout/ Water Spout
+W-Waterspout/ Water Spout/Landspout
 
 G - TSTM Wind
 
