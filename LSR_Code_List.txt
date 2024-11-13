@@ -74,3 +74,5 @@ G - TSTM Wind
 
 s - Sleet/Heavy Sleet
 
+q - Snow Squall
+
